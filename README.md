@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @BeraYilmaZzz
+- 👀 I’m interested in software
+- 🌱 I’m currently learning java-react-HTML-CSS
+- 💞️ I’m looking to collaborate on FullStack web developer
+- 📫 How to reach me https://www.linkedin.com/in/bera-yilmaz1
